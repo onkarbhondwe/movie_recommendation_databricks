@@ -1,2 +1,2 @@
-# movie_recommendation_databricks
-Movies recommendation system using Azure Databricks 
+# Movies Recommendation 
+Movies recommendation system using Pyspark on Azure Databricks
